@@ -1,4 +1,4 @@
-# UnityRaycast
+# UnityRaycast2D
 
 Opinnäytetyön käytännön osuus. Raycastin hyödyntäminen maan havaitsemisessa, vihollisagrossa ja ampumisessa.
 
